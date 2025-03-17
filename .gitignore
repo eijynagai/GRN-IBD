@@ -1,2 +1,9 @@
 aertslab-pyscenic-0.12.1.sif
 aertslab-pyscenic-scanpy-0.12.1-1.9.1.sif
+
+IBD_GRN_SCENIC_analysis/
+SCENIC_DATABASE/
+adj.csv
+cisTarget/
+log/
+tutorial_PBMC10k/
