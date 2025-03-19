@@ -1,5 +1,13 @@
 # GRN-IBD
 
+### Reference information
+https://github.com/aertslab/pySCENIC/blob/master/docs/installation.rst#docker-podman-and-singularity-apptainer-images
+
+#### Extra required files
+Download human feather, TF, and tbl files
+https://resources.aertslab.org/cistarget/databases/homo_sapiens/
+
+
 ### Recommended: Conda environment 
 For reproducibility, it's recommended to use the environment.yml file provided in this repository. It took sometime to check multiple tools compatibility. The test on the PBMC dataset works well using this environment.
 
@@ -12,6 +20,10 @@ For reproducibility, it's recommended to use the environment.yml file provided i
 ##### Jupyter notebook
 To start Jupyter notebook in the server (via browser, to cancel use Ctrl+C):
 `jupyter lab --ip=0.0.0.0 --no-browser`
+
+
+#### Tutorial
+(pySCENIC protocol: PBMC10k downstream analyses)[https://htmlpreview.github.io/?https://github.com/aertslab/SCENICprotocol/blob/master/notebooks/PBMC10k_downstream-analysis.html]
 
 
 
