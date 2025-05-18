@@ -7,3 +7,6 @@ adj.csv
 cisTarget/
 log/
 tutorial_PBMC10k/
+data/
+MetaQ/
+tests/
