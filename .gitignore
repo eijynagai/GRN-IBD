@@ -9,4 +9,7 @@ log/
 tutorial_PBMC10k/
 data/
 MetaQ/
-tests/
+tests
+
+GRN_PYSCENIC_analysis/results/
+GRN_PYSCENIC_analysis/logs
