@@ -1,0 +1,15 @@
+B_plasma_CD_subset.loom
+B_plasma_HC_subset.loom
+B_plasma_UC_subset.loom
+epithelial_CD_subset.loom
+epithelial_HC_subset.loom
+epithelial_UC_subset.loom
+myeloid_CD_subset.loom
+myeloid_HC_subset.loom
+myeloid_UC_subset.loom
+stromal_CD_subset.loom
+stromal_HC_subset.loom
+stromal_UC_subset.loom
+T_NK_ILC_CD_subset.loom
+T_NK_ILC_HC_subset.loom
+T_NK_ILC_UC_subset.loom
