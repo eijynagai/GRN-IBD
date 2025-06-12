@@ -5,7 +5,7 @@
 #SBATCH --mem=300G
 #SBATCH --time=72:00:00
 #SBATCH --ntasks=1
-#SBATCH --array=0-14   # <- 15 datasets = indices 0-13
+#SBATCH --array=0-14%2   # <- 15 datasets
 #SBATCH --output=logs/grn_%A_%a.out
 #SBATCH --error=logs/grn_%A_%a.err
 #SBATCH --mail-user=eijynagai@gmail.com
